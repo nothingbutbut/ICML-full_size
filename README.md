@@ -1,1 +1,1 @@
-# ICML-full_size
+# FoG compared to full size BRO and SimBa
